@@ -1,0 +1,16 @@
+{
+  "short_name": "信通码",
+  "name": "信通码",
+  "icons": [
+    {
+      "src": "static/logo.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ],
+  "id": "ilovexjp-henan-hc-simulator",
+  "start_url": ".",
+  "display": "standalone",
+  "scope": "/",
+  "description": "信通码模拟"
+}
