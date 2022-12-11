@@ -1,1 +1,1 @@
-serve((req: Request) => new Response("Hello World"));
+import 'fs' ;
